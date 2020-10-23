@@ -1,0 +1,3 @@
+D:\Ap\Programovanie\MAP\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Kruh.dir/objects.a
+D:\Ap\Programovanie\MAP\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Kruh.dir/objects.a @CMakeFiles\Kruh.dir\objects1.rsp
+D:\Ap\Programovanie\MAP\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Kruh.dir/objects.a -Wl,--no-whole-archive  -o Kruh.exe -Wl,--out-implib,libKruh.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Kruh.dir\linklibs.rsp
